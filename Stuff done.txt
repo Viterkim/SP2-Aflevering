@@ -1,0 +1,8 @@
+Viktor
+Har lavet:
+ExcHTTP = Network exercise 2
+ex1 = Network exercise 1
+Task3 = www.viter.dk (Eget domæne nginx, til tomcat etc)
+
+4. Task 4 - Forsøgt i mange timer, opstået meget forvirring og frustration.
+5. Slet ikke haft tid, siddet med 4'eren hele dagen.
